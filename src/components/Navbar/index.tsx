@@ -1,9 +1,9 @@
-import { NavbarDesktop } from "./Desktop/Desktop";
-import { NavbarItem } from "./Item/Item";
-import { NavbarItemMobile } from "./ItemMobile/ItemMobile";
-import { NavbarMobile } from "./Mobile/Mobile";
-import { NavbarMobileMenu } from "./MobileMenu/MobileMenu";
-import { NavbarRoot } from "./Root/Root";
+import { NavbarDesktop } from './NavbarDesktop'
+import { NavbarItem } from './NavbarItem'
+import { NavbarItemMobile } from './NavbarItemMobile'
+import { NavbarMobile } from './NavbarMobile'
+import { NavbarMobileMenu } from './NavbarMobileMenu'
+import { NavbarRoot } from './NavbarRoot'
 
 export const Navbar = {
     Root: NavbarRoot,
@@ -11,5 +11,5 @@ export const Navbar = {
     Mobile: NavbarMobile,
     MobileMenu: NavbarMobileMenu,
     Item: NavbarItem,
-    ItemMobile: NavbarItemMobile
+    ItemMobile: NavbarItemMobile,
 }

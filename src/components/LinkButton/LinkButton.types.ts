@@ -1,11 +1,8 @@
-import { ReactNode } from "react";
+import { ReactNode } from 'react'
 
-export type LinkButtonProps = {
-    name?: string;
-    link?: string;
-    classe?: string;
-    isSecondary?: boolean,
-    isTertiary?: boolean,
-    isQuaternary?: boolean,
-    children?: ReactNode;
-};
+export interface LinkButtonProps {
+    name?: string
+    link?: string
+    customClass?: string
+    children?: ReactNode
+}

@@ -1,7 +1,7 @@
-import { DropdownItem } from "./Item/Item";
-import { DropdownRoot } from "./Root/Root";
+import { DropdownItem } from './DropdownItem'
+import { DropdownRoot } from './DropdownRoot'
 
 export const Dropdown = {
     Root: DropdownRoot,
-    Item: DropdownItem
+    Item: DropdownItem,
 }

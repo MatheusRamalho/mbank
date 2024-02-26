@@ -1,9 +1,9 @@
-import { ListRoot } from "./Root/Root";
-import { ListItem } from "./Item/Item";
-import { ListItemAction } from "./Action/Action";
+import { ListRoot } from './ListRoot'
+import { ListItem } from './ListItem'
+import { ListItemAction } from './ListItemAction'
 
 export const List = {
     Root: ListRoot,
     Item: ListItem,
-    Action: ListItemAction
+    Action: ListItemAction,
 }
