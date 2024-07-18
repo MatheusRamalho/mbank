@@ -25,8 +25,8 @@ export function PlayStoreIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={33.5044}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
             </defs>
         </svg>

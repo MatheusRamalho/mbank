@@ -173,8 +173,8 @@ export function BgInvite(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={209.5}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#82269E" />
-                    <stop offset={1} stopColor="#82269E" stopOpacity={0} />
+                    <stop stopColor="#FF5B4c" />
+                    <stop offset={1} stopColor="#FF5B4c" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1249_0"
@@ -184,8 +184,8 @@ export function BgInvite(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={230}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#8429A0" />
-                    <stop offset={1} stopColor="#8429A0" stopOpacity={0} />
+                    <stop stopColor="#BC2C38" />
+                    <stop offset={1} stopColor="#BC2C38" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint2_linear_1249_0"
@@ -195,8 +195,8 @@ export function BgInvite(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={816}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#82269E" />
-                    <stop offset={1} stopColor="#82269E" stopOpacity={0} />
+                    <stop stopColor="#FF5B4c" />
+                    <stop offset={1} stopColor="#FF5B4c" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint3_linear_1249_0"
@@ -206,8 +206,8 @@ export function BgInvite(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={662}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#8429A0" />
-                    <stop offset={1} stopColor="#8429A0" stopOpacity={0} />
+                    <stop stopColor="#BC2C38" />
+                    <stop offset={1} stopColor="#BC2C38" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint4_linear_1249_0"

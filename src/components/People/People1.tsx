@@ -8,7 +8,7 @@ import people2 from '@/assets/people2.png'
 export function People1({ customClass }: PeopleProps) {
     return (
         <div
-            className={`relative w-[456px] h-[660px] border broder-gray-100 bg-gray-50 rounded-[63px] ${customClass}`}
+            className={`relative w-full md:w-[456px] h-[660px] border broder-gray-100 bg-gray-50 rounded-[63px] ${customClass}`}
         >
             <Image
                 className="absolute inset-0 size-full opacity-0 animate-image"

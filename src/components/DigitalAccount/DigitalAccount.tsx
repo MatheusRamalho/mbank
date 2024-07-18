@@ -285,7 +285,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     </g>
                     <path
                         d="M169.986 348.919h270.171M169.986 546.124h271.157"
-                        stroke="#BB71D2"
+                        stroke="#C84343"
                         strokeWidth={0.807701}
                     />
                     <text
@@ -311,7 +311,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     />
                     <path
                         d="M169.986 585.565h271.157M169.986 506.683h271.157M169.986 467.242h271.157M169.986 427.801h271.157M169 388.36h271.157"
-                        stroke="#BB71D2"
+                        stroke="#C84343"
                         strokeWidth={0.807701}
                     />
                     <rect
@@ -320,7 +320,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         width={270.349}
                         height={38.6333}
                         rx={2.55422}
-                        stroke="#BB71D2"
+                        stroke="#C84343"
                         strokeWidth={0.807701}
                     />
                     <path
@@ -338,7 +338,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         fillRule="evenodd"
                         clipRule="evenodd"
                         d="M317.963 184.898h28.032v5.815h-28.032v-5.815zm-10.885 11.183v-5.368h5.368v-5.815h-11.183v16.998h5.368v5.666h-5.666v11.183h5.815v-5.666h5.666v-16.998h-5.368zm27.883.149h-5.815v5.815h5.815v-5.815zm-67.396 22.217h5.815v5.815h-5.815v-5.815zm5.815 5.815h5.368v-5.517h11.183v5.368h16.849v-5.666h5.815v5.815h-5.815v11.183h-5.815v-5.517h-16.551v-5.368h-5.218v5.517h-5.816v-5.815zm55.766.298v5.517h-5.815v-5.517h-5.368v-5.815h11.183v5.815zm11.183 10.885v5.367h5.815v5.816h-5.815v-5.368h-5.368v5.069h5.368v5.815h-11.183V241.26h-11.183v-5.815h16.551v-11.183h5.815v11.183zm0-5.517v-11.183h5.815v11.183h-5.815zm-11.183 22.216v11.333H306.78v-5.816h16.551v-5.367h-5.368v-5.816h5.815v5.666h5.368zm16.998 5.816v-5.816h-5.815v5.816h5.815zm-11.63-.15h5.815v5.816h-5.815v-5.816zm-21.919-16.998h5.368v5.816h-5.368v5.815h-5.815v-5.815h5.368v-5.368h-5.368v-5.815h5.368v-5.816h5.815v5.816h-5.368v5.367zm-5.815 11.183v5.666h-5.815v-16.849h5.815v11.183zm-28.032-5.517h5.815v5.816h-5.815v-5.816zm5.815-50.248h-5.815v5.815h5.815v-5.815zm5.219 11.332H273.38v-16.849h16.402v16.849zm-22.217 0v5.815h28.032v-22.664h.001v-5.815h-28.032v5.815h-.001v16.849zm0 27.883h28.032v22.067h-5.815V241.26H273.38v16.252h-5.815v-22.067zm28.032 22.067h-28.032v5.815h28.032v-5.815zm44.583-49.95h-16.402v-16.849h-5.815v22.664h28.032v-22.664h-5.815v16.849z"
-                        fill="#82269E"
+                        fill="#C84343"
                     />
                     <rect
                         x={175}
@@ -491,12 +491,6 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                                 {'Matheus Ramalho'}
                             </tspan>
                         </text>
-                        <path
-                            fillRule="evenodd"
-                            clipRule="evenodd"
-                            d="M225.442 114.692v-1.496l.001-.005c.006-.017.023-.068.071-.152a1.65 1.65 0 01.38-.436c.355-.291.968-.578 1.969-.505 4.178.307 6.41 3.164 6.41 5.168V130.6c0 .033-.002.06-.004.08a.825.825 0 01-.082.004h-2.574a.832.832 0 01-.083-.004.797.797 0 01-.004-.08v-12.309c0-.922-.45-1.814-1.084-2.464-.637-.652-1.536-1.135-2.527-1.135h-2.473zm2.473 1.418h-2.473v14.49c0 .364-.064.811-.408 1.138-.335.318-.773.364-1.097.364h-2.621c-.308 0-.711-.058-1.039-.344-.347-.302-.465-.731-.465-1.158v-12.448c0-.743.411-1.59.971-2.228.57-.649 1.427-1.232 2.452-1.232h.789v-1.529c0-.284.119-.586.262-.833.157-.271.39-.562.709-.823.65-.534 1.627-.922 2.972-.823 4.715.346 7.724 3.648 7.724 6.582V130.6c0 .35-.078.761-.385 1.08-.311.324-.73.422-1.119.422h-2.574c-.39 0-.809-.098-1.12-.422-.307-.319-.385-.73-.385-1.08v-12.309c0-.472-.243-1.025-.68-1.473-.435-.444-.987-.708-1.513-.708zm-4.68 0h.789v14.49a.958.958 0 01-.003.082 1.886 1.886 0 01-.084.002h-2.621a.843.843 0 01-.082-.004.78.78 0 01-.004-.08v-12.448c0-.284.197-.812.619-1.293.413-.47.913-.749 1.386-.749zm24.602 15.948v1.496l-.001.004c-.006.017-.022.069-.071.152a1.617 1.617 0 01-.38.436c-.354.291-.968.579-1.969.506-4.177-.307-6.41-3.165-6.41-5.168v-13.335c0-.033.002-.059.004-.079a.849.849 0 01.083-.004h2.574c.035 0 .062.002.082.004.003.02.004.046.004.079v12.309c0 .923.45 1.815 1.084 2.464.637.652 1.536 1.136 2.527 1.136h2.473zm-2.473-1.418h2.473v-14.491c0-.363.065-.811.408-1.137.335-.319.774-.364 1.097-.364h2.621c.308 0 .712.058 1.039.343.347.303.466.731.466 1.158v12.449c0 .742-.412 1.59-.972 2.228-.57.649-1.427 1.232-2.452 1.232h-.788v1.529c0 .284-.12.585-.263.833-.157.271-.39.562-.708.823-.65.533-1.628.922-2.973.823-4.715-.346-7.724-3.648-7.724-6.582v-13.335c0-.35.079-.76.385-1.079.311-.325.731-.422 1.12-.422h2.574c.389 0 .808.097 1.12.422.306.319.385.729.385 1.079v12.309c0 .473.242 1.026.68 1.473.434.445.986.709 1.512.709zm4.68 0h-.788v-14.491c0-.031 0-.058.002-.081l.084-.002h2.621c.034 0 .062.001.083.004.002.02.004.046.004.079v12.449c0 .283-.197.811-.62 1.292-.413.471-.913.75-1.386.75z"
-                            fill="#fff"
-                        />
                     </g>
                 </g>
                 <g className="animate-screen3">
@@ -632,13 +626,13 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         cx={308.881}
                         cy={520.59}
                         r={2.95874}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <circle
                         cx={324.661}
                         cy={520.59}
                         r={2.95874}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <rect
                         x={258.77}
@@ -745,12 +739,6 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                                 {'Matheus Ramalho'}
                             </tspan>
                         </text>
-                        <path
-                            fillRule="evenodd"
-                            clipRule="evenodd"
-                            d="M226.438 114.837v-1.496l.002-.004a.692.692 0 01.071-.152c.073-.127.196-.286.38-.436.354-.291.968-.579 1.969-.505 4.177.306 6.41 3.164 6.41 5.167v13.335a.774.774 0 01-.004.079.618.618 0 01-.083.004h-2.574a.618.618 0 01-.083-.004.824.824 0 01-.003-.079v-12.309c0-.923-.45-1.815-1.084-2.464-.637-.652-1.536-1.136-2.527-1.136h-2.474zm2.474 1.418h-2.474v14.491c0 .364-.064.811-.407 1.137-.335.319-.774.365-1.097.365h-2.621c-.308 0-.712-.059-1.039-.344-.347-.303-.466-.731-.466-1.158v-12.449c0-.742.412-1.59.972-2.228.57-.649 1.427-1.232 2.452-1.232h.788v-1.529c0-.284.12-.585.263-.832.157-.272.39-.562.708-.824.65-.533 1.628-.921 2.973-.823 4.715.346 7.724 3.648 7.724 6.582v13.335c0 .35-.079.761-.385 1.08-.311.324-.731.422-1.12.422h-2.574c-.389 0-.808-.098-1.12-.422-.306-.319-.385-.73-.385-1.08v-12.309c0-.472-.242-1.026-.68-1.473-.434-.445-.986-.709-1.512-.709zm-4.68 0h.788v14.491l-.002.081c-.024.002-.052.002-.084.002h-2.621a.628.628 0 01-.083-.004.774.774 0 01-.004-.079v-12.449c0-.283.197-.811.62-1.292.413-.47.913-.75 1.386-.75zm24.602 15.949v1.496c-.004.009-.019.063-.072.156a1.67 1.67 0 01-.38.436c-.355.291-.969.579-1.97.505-4.177-.307-6.409-3.164-6.409-5.167v-13.335c0-.033.001-.059.004-.079a.566.566 0 01.082-.005h2.574c.035 0 .062.002.083.005.002.02.004.046.004.079v12.309c0 .922.449 1.815 1.084 2.464.637.652 1.535 1.136 2.526 1.136h2.474zm-2.474-1.419h2.474v-14.49c0-.364.064-.811.407-1.138.336-.318.774-.364 1.097-.364h2.621c.309 0 .712.058 1.04.344.347.302.465.731.465 1.158v12.449c0 .742-.411 1.589-.972 2.228-.569.648-1.426 1.232-2.451 1.232h-.789v1.528c0 .284-.12.586-.263.833a3.033 3.033 0 01-.708.824c-.65.533-1.628.921-2.972.822-4.715-.346-7.724-3.647-7.724-6.581v-13.335c0-.35.078-.761.384-1.08.312-.324.731-.422 1.12-.422h2.574c.389 0 .809.098 1.12.422.306.319.385.73.385 1.08v12.309c0 .472.243 1.025.68 1.473.434.444.986.708 1.512.708zm4.681 0h-.789v-14.49l.002-.081c.024-.002.052-.003.084-.003h2.621c.035 0 .062.002.083.004.002.02.004.047.004.08v12.449c0 .283-.197.811-.619 1.292-.413.47-.913.749-1.386.749z"
-                            fill="#fff"
-                        />
                     </g>
                     <g clipPath="url(#clip1_1169_1)">
                         <rect
@@ -759,7 +747,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -781,7 +769,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -803,7 +791,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -858,7 +846,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={16.7662}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                     </g>
                 </g>
@@ -977,7 +965,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         cx={293.071}
                         cy={520.487}
                         r={2.95807}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <circle
                         cx={308.848}
@@ -989,7 +977,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         cx={324.624}
                         cy={520.487}
                         r={2.95807}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <g
                         stroke="#3C3B3D"
@@ -1161,12 +1149,6 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                                 {'Matheus Ramalho'}
                             </tspan>
                         </text>
-                        <path
-                            fillRule="evenodd"
-                            clipRule="evenodd"
-                            d="M227.246 114.838v-1.496l.002-.004a.743.743 0 01.07-.152 1.67 1.67 0 01.38-.436c.355-.291.969-.579 1.97-.505 4.177.307 6.409 3.164 6.409 5.168v13.334a.563.563 0 01-.004.079.566.566 0 01-.082.005h-2.574a.592.592 0 01-.083-.005.774.774 0 01-.004-.079v-12.309c0-.922-.449-1.815-1.084-2.464-.637-.652-1.536-1.136-2.527-1.136h-2.473zm2.473 1.419h-2.473v14.49c0 .364-.064.811-.408 1.138-.335.318-.773.364-1.097.364h-2.62c-.309 0-.712-.058-1.04-.344-.347-.302-.465-.731-.465-1.158v-12.449c0-.742.411-1.589.972-2.228.569-.648 1.426-1.232 2.451-1.232h.789v-1.528c0-.284.12-.586.262-.833.157-.272.39-.562.709-.824.65-.533 1.628-.921 2.972-.822 4.715.346 7.724 3.647 7.724 6.582v13.334c0 .35-.078.761-.384 1.08-.312.324-.731.422-1.12.422h-2.574c-.389 0-.809-.098-1.12-.422-.306-.319-.385-.73-.385-1.08v-12.309c0-.472-.243-1.025-.68-1.473-.434-.444-.986-.708-1.513-.708zm-4.68 0h.789v14.49l-.002.081a1.035 1.035 0 01-.085.003h-2.62a.849.849 0 01-.083-.004.797.797 0 01-.004-.08v-12.449c0-.283.197-.811.619-1.292.413-.47.913-.749 1.386-.749zm24.603 15.948v1.496l-.002.004a.692.692 0 01-.071.152 1.617 1.617 0 01-.38.436c-.354.291-.968.579-1.969.505-4.177-.306-6.41-3.164-6.41-5.167v-13.335c0-.033.002-.059.004-.079a.618.618 0 01.083-.004h2.574c.035 0 .062.001.083.004.002.02.003.046.003.079v12.309c0 .923.45 1.815 1.084 2.464.637.652 1.536 1.136 2.527 1.136h2.474zm-2.474-1.418h2.474v-14.491c0-.364.064-.811.407-1.137.335-.319.774-.364 1.097-.364h2.621c.308 0 .712.058 1.039.343.347.303.466.731.466 1.158v12.449c0 .742-.412 1.59-.972 2.228-.57.649-1.427 1.232-2.451 1.232h-.789v1.529c0 .284-.12.585-.263.832-.157.272-.39.562-.708.824-.65.533-1.628.921-2.973.823-4.715-.346-7.724-3.648-7.724-6.582v-13.335c0-.35.079-.761.385-1.08.312-.324.731-.421 1.12-.421h2.574c.389 0 .808.097 1.12.421.306.319.385.73.385 1.08v12.309c0 .472.242 1.026.68 1.473.434.445.986.709 1.512.709zm4.681 0h-.789v-14.491l.002-.081c.024-.002.052-.002.084-.002h2.621c.034 0 .062.001.083.004.002.02.004.046.004.079v12.449c0 .283-.197.811-.62 1.292-.413.47-.913.75-1.385.75z"
-                            fill="#fff"
-                        />
                     </g>
                     <g clipPath="url(#clip2_1169_1)">
                         <rect
@@ -1175,7 +1157,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1197,7 +1179,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1219,7 +1201,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1274,7 +1256,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={16.7662}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                     </g>
                     <rect
@@ -1314,7 +1296,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         letterSpacing="0em"
                     >
                         <tspan x={244.039} y={351.918}>
-                            {'NUBANK REWARDS'}
+                            {'MBANK REWARDS'}
                         </tspan>
                     </text>
                     <text
@@ -1343,13 +1325,13 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         cx={292.879}
                         cy={520.487}
                         r={2.95807}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <circle
                         cx={308.655}
                         cy={520.487}
                         r={2.95807}
-                        fill="#BB71D2"
+                        fill="#C84343"
                     />
                     <circle
                         cx={324.432}
@@ -1358,7 +1340,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         fill="#EDEAEF"
                     />
                     <text
-                        fill="#82269E"
+                        fill="#C84343"
                         xmlSpace="preserve"
                         style={{
                             whiteSpace: 'pre',
@@ -1378,7 +1360,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                         width={197.383}
                         height={38.6333}
                         rx={2.55422}
-                        stroke="#82269E"
+                        stroke="#C84343"
                         strokeWidth={0.807701}
                     />
                     <g
@@ -1504,12 +1486,6 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                                 {'Matheus Ramalho'}
                             </tspan>
                         </text>
-                        <path
-                            fillRule="evenodd"
-                            clipRule="evenodd"
-                            d="M227.054 114.838v-1.496l.001-.004c.006-.017.023-.068.071-.152a1.65 1.65 0 01.38-.436c.355-.291.968-.579 1.969-.505 4.178.307 6.41 3.164 6.41 5.168v13.334a.774.774 0 01-.004.079.576.576 0 01-.082.005h-2.574a.592.592 0 01-.083-.005.774.774 0 01-.004-.079v-12.309c0-.922-.449-1.815-1.084-2.464-.637-.652-1.536-1.136-2.527-1.136h-2.473zm2.473 1.419h-2.473v14.49c0 .364-.064.811-.408 1.138-.335.318-.773.364-1.097.364h-2.621c-.308 0-.711-.058-1.039-.344-.347-.302-.465-.731-.465-1.158v-12.449c0-.742.411-1.589.972-2.228.569-.648 1.426-1.232 2.451-1.232h.789v-1.528c0-.284.119-.586.262-.833.157-.272.39-.562.709-.824.65-.533 1.627-.921 2.972-.822 4.715.346 7.724 3.647 7.724 6.582v13.334c0 .35-.078.761-.385 1.08-.311.324-.73.422-1.119.422h-2.574c-.39 0-.809-.098-1.12-.422-.306-.319-.385-.73-.385-1.08v-12.309c0-.472-.243-1.025-.68-1.473-.435-.444-.987-.708-1.513-.708zm-4.68 0h.789v14.49l-.002.081a1.035 1.035 0 01-.085.003h-2.621a.843.843 0 01-.082-.004.797.797 0 01-.004-.08v-12.449c0-.283.197-.811.619-1.292.413-.47.913-.749 1.386-.749zm24.602 15.948v1.496l-.001.004c-.006.017-.023.069-.071.152a1.617 1.617 0 01-.38.436c-.354.291-.968.579-1.969.505-4.177-.306-6.41-3.164-6.41-5.167v-13.335c0-.033.002-.059.004-.079a.618.618 0 01.083-.004h2.574c.035 0 .062.001.082.004.003.02.004.046.004.079v12.309c0 .923.45 1.815 1.084 2.464.637.652 1.536 1.136 2.527 1.136h2.473zm-2.473-1.418h2.473v-14.491c0-.364.065-.811.408-1.137.335-.319.773-.364 1.097-.364h2.621c.308 0 .712.058 1.039.343.347.303.466.731.466 1.158v12.449c0 .742-.412 1.59-.972 2.228-.57.649-1.427 1.232-2.452 1.232h-.788v1.529c0 .284-.12.585-.263.832-.157.272-.39.562-.708.824-.651.533-1.628.921-2.973.823-4.715-.346-7.724-3.648-7.724-6.582v-13.335c0-.35.079-.761.385-1.08.311-.324.731-.421 1.12-.421h2.574c.389 0 .808.097 1.12.421.306.319.384.73.384 1.08v12.309c0 .472.243 1.026.68 1.473.435.445.987.709 1.513.709zm4.68 0h-.788v-14.491c0-.031 0-.058.002-.081.024-.002.052-.002.084-.002h2.621c.034 0 .062.001.083.004.002.02.003.046.003.079v12.449c0 .283-.196.811-.619 1.292-.413.47-.913.75-1.386.75z"
-                            fill="#fff"
-                        />
                     </g>
                     <g clipPath="url(#clip3_1169_1)">
                         <rect
@@ -1518,7 +1494,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1540,7 +1516,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1562,7 +1538,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={82.0556}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                         <text
                             fill="#EDEAEF"
@@ -1617,7 +1593,7 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                             width={16.7662}
                             height={89.7483}
                             rx={2.4231}
-                            fill="#9C4FB4"
+                            fill="#BC2C38"
                         />
                     </g>
                     <rect
@@ -1987,8 +1963,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={915}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#82269E" />
-                    <stop offset={1} stopColor="#82269E" stopOpacity={0} />
+                    <stop stopColor="#C84343" />
+                    <stop offset={1} stopColor="#C84343" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1169_1"
@@ -1998,8 +1974,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={337.893}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint2_linear_1169_1"
@@ -2009,8 +1985,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={294.31}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint3_linear_1169_1"
@@ -2020,8 +1996,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={284.871}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint4_linear_1169_1"
@@ -2031,8 +2007,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={280.091}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint5_linear_1169_1"
@@ -2042,8 +2018,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={278.417}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint6_linear_1169_1"
@@ -2053,8 +2029,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={278.417}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint7_linear_1169_1"
@@ -2064,8 +2040,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={632.664}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint8_linear_1169_1"
@@ -2075,8 +2051,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={153.937}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint9_linear_1169_1"
@@ -2086,8 +2062,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={190.123}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint10_linear_1169_1"
@@ -2097,8 +2073,8 @@ export function DigitalAccount(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={272.586}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1169_1">
                     <path fill="#fff" d="M0 0H606V928H0z" />

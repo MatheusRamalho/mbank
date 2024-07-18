@@ -36,8 +36,8 @@ export function PhoneIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={41.5907}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1436_95"
@@ -47,8 +47,8 @@ export function PhoneIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={49.3917}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint2_linear_1436_95"
@@ -58,8 +58,8 @@ export function PhoneIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={51.83}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1436_95">
                     <path fill="#fff" d="M0 0H72V72H0z" />

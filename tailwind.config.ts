@@ -9,13 +9,13 @@ const config: Config = {
     theme: {
         extend: {
             colors: {
-                'primary-300': '#9C4FB4',
-                'primary-500': '#82269E',
-                'primary-700': '#701F88',
+                'primary-300': '#FF5B4C',
+                'primary-500': '#C84343',
+                'primary-700': '#BC2C38',
 
-                'secondary-300': '#BB71D2',
-                'secondary-500': '#A950C4',
-                'secondary-700': '#9142A8',
+                'secondary-300': '#0097B1',
+                'secondary-500': '#007DA0',
+                'secondary-700': '#006E93',
 
                 'gray-50': '#F3F0F5',
                 'gray-100': '#FBF8FC',
@@ -33,7 +33,7 @@ const config: Config = {
             },
             backgroundImage: {
                 'primary-gradient':
-                    'linear-gradient(220.94deg, #A950C4 14.43%, #82269E 85.28%)',
+                    'linear-gradient(220.94deg, #FF5B4C 14.43%, #BC2C38 85.28%)',
 
                 arrow: "url('/assets/arrow-svg')",
                 entail: "url('/assets/entail.svg')",

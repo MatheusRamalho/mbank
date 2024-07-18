@@ -40,8 +40,8 @@ export function TransferIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={32.5073}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1436_90"
@@ -51,8 +51,8 @@ export function TransferIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={47.5085}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint2_linear_1436_90"
@@ -62,8 +62,8 @@ export function TransferIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={50.4021}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1436_90">
                     <path fill="#fff" d="M0 0H72V72H0z" />

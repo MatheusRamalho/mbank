@@ -72,18 +72,6 @@ export function BgHero(props: ComponentPropsWithoutRef<'svg'>) {
                         fill="url(#paint5_linear_1076_0)"
                     />
                 </g>
-                <path
-                    className="bg-hero-letter-u"
-                    d="M1985 699.703V258.116c0-21.5-11.64-28.116-28.28-28.116h-93.15c-19.96 0-28.28 6.616-28.28 28.116v618.556c0 14.885-29.73 68.958-113.11 62.849C1564.15 927.944 1471 818.703 1471 731.129V258.116c0-18.193 8.32-28.116 28.28-28.116h91.49c19.96 0 28.28 9.923 28.28 28.116v436.628c0 49.482 49.21 102.541 103.13 102.541h166.35c53.23 0 96.47-61.196 96.47-97.582z"
-                    stroke="url(#paint6_linear_1076_0)"
-                    strokeWidth={2}
-                />
-                <path
-                    className="bg-hero-letter-n"
-                    d="M841 326.297v441.587c0 21.5 11.598 28.116 28.168 28.116h92.79c19.883 0 28.168-6.616 28.168-28.116V149.328c0-14.885 29.614-68.958 112.674-62.85C1260.21 98.057 1353 207.298 1353 294.872v473.013c0 18.193-8.29 28.116-28.17 28.116h-91.13c-19.88 0-28.17-9.923-28.17-28.116V331.256c0-49.482-49.02-102.541-102.73-102.541H937.093c-53.023 0-96.093 61.196-96.093 97.582z"
-                    stroke="url(#paint7_linear_1076_0)"
-                    strokeWidth={2}
-                />
             </g>
             <defs>
                 <filter
@@ -222,8 +210,8 @@ export function BgHero(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={363.927}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#8429A0" />
-                    <stop offset={1} stopColor="#8429A0" stopOpacity={0} />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#FF5B4C" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1076_0"
@@ -233,8 +221,8 @@ export function BgHero(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={363.927}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#8429A0" />
-                    <stop offset={1} stopColor="#8429A0" stopOpacity={0} />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#FF5B4C" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint2_linear_1076_0"
@@ -288,8 +276,8 @@ export function BgHero(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={940}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#82269E" stopOpacity={0.7} />
-                    <stop offset={1} stopColor="#82269E" stopOpacity={0} />
+                    <stop stopColor="#BC2C38" stopOpacity={0.7} />
+                    <stop offset={1} stopColor="#BC2C38" stopOpacity={0} />
                 </linearGradient>
                 <linearGradient
                     id="paint7_linear_1076_0"
@@ -299,8 +287,8 @@ export function BgHero(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={86}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#82269E" stopOpacity={0.7} />
-                    <stop offset={1} stopColor="#82269E" stopOpacity={0} />
+                    <stop stopColor="#BC2C38" stopOpacity={0.7} />
+                    <stop offset={1} stopColor="#BC2C38" stopOpacity={0} />
                 </linearGradient>
                 <clipPath id="clip0_1076_0">
                     <path fill="#fff" d="M0 0H1920V1080H0z" />

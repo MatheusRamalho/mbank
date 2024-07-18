@@ -22,13 +22,13 @@ export default function Home() {
 
                 <Section
                     id="sect-hero"
-                    customClass="py-32"
+                    customClass="py-32 flex flex-col items-center justify-center"
                     customClassContainer="!flex-col lg:!flex-row"
                     legend="Section de aterrissagem"
                 >
                     <div className="flex-[1_1_22.5rem] py-20">
-                        <h1 className="text-6xl font-bold text-gray-950 leading-[110%]">
-                            Ser Nubank é reinventar sua vida financeira.{' '}
+                        <h1 className="text-4xl mg:text-6xl font-bold text-gray-950 leading-[110%]">
+                            Ser Mbank é reinventar sua vida financeira.{' '}
                         </h1>
 
                         <p className="my-8 leading-8">
@@ -37,10 +37,10 @@ export default function Home() {
                             app.{' '}
                         </p>
 
-                        <div className="flex items-start justify-normal gap-4">
+                        <div className="flex items-start justify-normal gap-4 flex-col sm:flex-row">
                             <LinkButton.Primary
                                 link="#"
-                                name="Quero ser Nubank"
+                                name="Quero ser Mbank"
                             />
 
                             <Link href="#">
@@ -120,7 +120,7 @@ export default function Home() {
             >
                 <div className="relative px-12 py-20 bg-gray-50 rounded-[48px] flex items-start justify-center gap-8 flex-col 2xl:flex-row 2xl:items-center before:content-[''] before:absolute before:top-0 before:left-1/2 before:-translate-x-1/2 before:w-32 before:h-8 before:bg-no-repeat before:bg-entail">
                     <div className="flex-[2_1_0%] m-4">
-                        <Header caption="O melhor" title="Por que Nubank?" />
+                        <Header caption="O melhor" title="Por que Mbank?" />
                     </div>
 
                     <div className="flex items-start justify-center gap-x-4 gap-y-8 flex-wrap md:flex-row">
@@ -218,9 +218,9 @@ export default function Home() {
             >
                 <div className="flex-[3_1_22.5rem] flex flex-col items-start mx-4">
                     <Header
-                        caption="Seu roxinho"
+                        caption="Seu vermelinho"
                         title="Crédito e débito."
-                        description="Pode chamar ele de roxinho. Além disso, pode chamar ele de moderno, gratuito e prático também. Facilidade e segurança para você em mais de 30 milhões de estabelecimentos, além dos benefícios Mastercard."
+                        description="Pode chamar ele de vermelinho. Além disso, pode chamar ele de moderno, gratuito e prático também. Facilidade e segurança para você em mais de 30 milhões de estabelecimentos, além dos benefícios Mastercard."
                     />
 
                     <List.Root>
@@ -258,7 +258,7 @@ export default function Home() {
                     <Header
                         caption="Faça sua conta"
                         title="Baixe. É gratuito."
-                        description="Vamos lá, junte-se aos mais de 20 milhões que escolheram o Nubank. Conte com o banco digital que mais cresce no Brasil. É de graça. É para todos. Clique e baixe o App."
+                        description="Vamos lá, junte-se aos mais de 20 milhões que escolheram o Mbank. Conte com o banco digital que mais cresce no Brasil. É de graça. É para todos. Clique e baixe o App."
                     />
 
                     <div className="flex items-start justify-normal gap-4 flex-col sm:flex-row">
@@ -294,7 +294,7 @@ export default function Home() {
                             description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pellentesque vulputate at mattis nibh nulla est. Pharetra, eget purus tortor nibh porta ipsum enim urna viverra. Pharetra, eget purus tortor nibh porta ipsum enim urna viverra."
                         />
 
-                        <LinkButton.Primary link="#" name="Quero ser Nubank" />
+                        <LinkButton.Primary link="#" name="Quero ser Mbank" />
                     </div>
                 </Section>
             </div>

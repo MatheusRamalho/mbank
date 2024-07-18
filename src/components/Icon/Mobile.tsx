@@ -32,8 +32,8 @@ export function MobileIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={41.3603}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1152_0"
@@ -43,8 +43,8 @@ export function MobileIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={45.9355}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1152_0">
                     <path fill="#fff" d="M0 0H72V72H0z" />

@@ -29,8 +29,8 @@ export function CheckIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={27.6014}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1222_18745">
                     <path fill="#fff" d="M0 0H40V40H0z" />

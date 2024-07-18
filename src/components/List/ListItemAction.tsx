@@ -17,7 +17,7 @@ export function ListItemAction({
     return (
         <li className="w-full mb-3 transition-all flex items-center justify-start group">
             <Link
-                className={`text-secondary-300 transition-all group-hover:font-semibold group-hover:text-gray-100 ${customClass}`}
+                className={`text-gray-200 transition-all group-hover:font-semibold group-hover:text-gray-100 ${customClass}`}
                 href={link || '#'}
             >
                 {children ? (

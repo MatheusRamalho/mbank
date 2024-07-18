@@ -10,7 +10,7 @@ export function Footer() {
                 <div className="flex-1 min-w-52">
                     <h4 className="font-semiBold text-xl text-gray-50">
                         {' '}
-                        Nubank{' '}
+                        Mbank{' '}
                     </h4>
 
                     <List.Root customClass="mt-4 pt-4">
@@ -63,7 +63,7 @@ export function Footer() {
                     </List.Root>
                 </div>
 
-                <div className="flex-[2_1_0%] min-w-96">
+                <div className="flex-[2_1_0%] lg:min-w-96">
                     <h4 className="font-semiBold text-xl text-gray-50">
                         {' '}
                         Baixe o app{' '}
@@ -81,33 +81,33 @@ export function Footer() {
                 </div>
             </div>
 
-            <div className="container mx-auto border-t border-t-secondary-300 flex items-center justify-center gap-4 py-12 flex-col sm:flex-row sm:justify-between">
+            <div className="container mx-auto border-t border-t-primary-300 flex items-center justify-center gap-4 py-12 flex-col sm:flex-row sm:justify-between">
                 <div className="flex-1 flex items-center justify-start gap-4">
                     <Brand.White className="max-w-24" />
 
                     <p className="text-xs text-gray-50">
                         Nome da empresa. 00.000.000/0000-00 <br />
                         Rua Tal, 00 - Cidade, Estado - 00000-000 <br />
-                        Projeto de estudo, um redesign do site da Nubank.
+                        Projeto de estudo, um redesign do site da Mbank.
                     </p>
                 </div>
 
                 <div className="flex-1 flex items-center justify-end">
                     <List.Root isHorizontal>
                         <List.Action link="#">
-                            <Icon.Facebook className="size-10 !stroke-white" />
+                            <Icon.Facebook className="size-10 fill-white" />
                         </List.Action>
 
                         <List.Action link="#">
-                            <Icon.Instagram className="size-10 !stroke-white" />
+                            <Icon.Instagram className="size-10 fill-white" />
                         </List.Action>
 
                         <List.Action link="#">
-                            <Icon.Twitter className="size-10 !stroke-white" />
+                            <Icon.Twitter className="size-10 fill-white" />
                         </List.Action>
 
                         <List.Action link="#">
-                            <Icon.Youtube className="size-10 !stroke-white" />
+                            <Icon.Youtube className="size-10 fill-white" />
                         </List.Action>
                     </List.Root>
                 </div>

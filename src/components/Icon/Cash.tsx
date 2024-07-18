@@ -29,8 +29,8 @@ export function CashIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={23.5082}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <linearGradient
                     id="paint1_linear_1436_85"
@@ -40,8 +40,8 @@ export function CashIcon(props: ComponentPropsWithoutRef<'svg'>) {
                     y2={41.5614}
                     gradientUnits="userSpaceOnUse"
                 >
-                    <stop stopColor="#A950C4" />
-                    <stop offset={1} stopColor="#82269E" />
+                    <stop stopColor="#FF5B4C" />
+                    <stop offset={1} stopColor="#C84343" />
                 </linearGradient>
                 <clipPath id="clip0_1436_85">
                     <path fill="#fff" d="M0 0H72V72H0z" />

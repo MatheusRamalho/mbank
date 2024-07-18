@@ -21,7 +21,7 @@ export function Menu() {
     return (
         <Navbar.Root>
             <Navbar.Desktop>
-                <Navbar.Item name="Nubank">
+                <Navbar.Item name="Mbank">
                     <Dropdown.Root>
                         <Dropdown.Item name="O Nu" link="#" />
                         <Dropdown.Item name="Carreiras" link="#" />
@@ -49,7 +49,7 @@ export function Menu() {
             <Navbar.Mobile onClick={handleMenuToggle} isActive={mobileOpen} />
 
             <Navbar.MobileMenu isOpen={mobileOpen}>
-                <Navbar.ItemMobile customClass="mb-2" name="Nubank" link="#" />
+                <Navbar.ItemMobile customClass="mb-2" name="Mbank" link="#" />
 
                 <Navbar.ItemMobile
                     customClass="mb-2"
@@ -59,7 +59,7 @@ export function Menu() {
 
                 <Navbar.ItemMobile
                     customClass="mb-2"
-                    name="Quero ser Nubank"
+                    name="Quero ser Mbank"
                     link="#"
                 />
 

@@ -9,7 +9,7 @@ interface NavbarMobileProps {
 
 export function NavbarMobile({ isActive = false, onClick }: NavbarMobileProps) {
     return (
-        <nav className="max-w-[1440px] mx-auto py-3 px-6 flex items-center justify-between lg:hidden">
+        <nav className="w-full mx-auto py-3 px-6 flex items-center justify-between lg:hidden">
             <button
                 onClick={onClick}
                 className={`
